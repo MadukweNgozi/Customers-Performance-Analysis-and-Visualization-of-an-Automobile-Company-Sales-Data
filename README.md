@@ -26,3 +26,6 @@ print("The packages have been successfully imported")
 bikes_df = pd.read_csv("C:/Users/Mazeliz Depot1/Desktop/NGOZI/_Mr Emma class/Data Set/bikes.csv")
 bikes_df.head()    
 ```
+
+## DATA ANALYSIS
+#### DATA FILTERING
